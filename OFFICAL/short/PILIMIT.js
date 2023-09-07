@@ -11,7 +11,7 @@ var authors = "Skyhigh173";
 var version = 1;
 
 var b1, b2, a1, a2, q1, TotalUpgrade = 0, q = 0, qExp;
-var currency;
+const currency;
 
 var init = () => {
     currency = theory.createCurrency();
